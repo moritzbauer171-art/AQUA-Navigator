@@ -1,0 +1,16 @@
+{
+  "name": "AQUA – Der Quellennavigator",
+  "short_name": "AQUA",
+  "description": "Quellen im Geschichtsunterricht Schritt für Schritt untersuchen: Autor, Quelle, Adressat.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#121110",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
